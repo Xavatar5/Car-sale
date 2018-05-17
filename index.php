@@ -11,8 +11,8 @@
   
     <h1>CAR SALE</h1>
   	<div id="box">
-  		<a href="delete.php"><img style="padding-bottom: 5px" width="40px" height="40px" src="icons/delete.png"></a>
-  		<a href="input.php"><img  width="50" height="50" src="icons/input.png"></a>
+  		<a href="delete.php"><img style="padding-bottom: 5px" width="40px" height="40px" src="delete.png"></a>
+  		<a href="input.php"><img  width="50" height="50" src="input.png"></a>
       <form id="box3" action="" method="POST">
 
         <h1>Search</h1>
