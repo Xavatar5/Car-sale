@@ -8,8 +8,8 @@
   <body>
     <h1>CAR SALE</h1>
   	<div id="box">
-  		<a href="delete.php"><img width="40px" height="40px" src="icons/delete.png"></a>
-      <a href="index.php"><img width="40px" height="40px" src="icons/search.png"></a>
+  		<a href="delete.php"><img width="40px" height="40px" src="delete.png"></a>
+      <a href="index.php"><img width="40px" height="40px" src="search.png"></a>
   		<a href=""></a>
   		<form id="box3" action="" method="POST">
           <h1>Add vehicle</h1>
